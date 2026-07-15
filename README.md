@@ -1,4 +1,6 @@
-# Agent Mini-Suite
+# Agent Mini-Suite  
+
+[![Python tests](https://github.com/AdamBoxy/Agent-Benchmark-mini-suite/actions/workflows/python-app.yml/badge.svg)](https://github.com/AdamBoxy/Agent-Benchmark-mini-suite/actions/workflows/python-app.yml)
 
 A compact, offline benchmark for five practical agent capabilities:
 
